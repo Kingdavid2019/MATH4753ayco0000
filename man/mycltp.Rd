@@ -19,3 +19,6 @@ A histogram, barplot and probability chart
 \description{
 Poison distribution using CLT
 }
+\examples{
+\dontrun{mycltp(n=20,iter=10000)}
+}

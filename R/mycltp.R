@@ -8,6 +8,7 @@
 #' @export
 #'
 #' @examples
+#' \dontrun{mycltp(n=20,iter=10000)}
 mycltp=function(n,iter,lambda=10,...){
   ## r-random sample from the Poisson
   y=rpois(n*iter,lambda=lambda)
