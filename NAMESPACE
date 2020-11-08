@@ -2,6 +2,7 @@
 
 export(getmode)
 export(myboot2)
+export(myci)
 export(mycltp)
 export(mymaxlik)
 export(myncurve)
